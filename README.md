@@ -42,11 +42,11 @@ verticeX verticeY</br>
 0 1</br>
 1 2</br>
 Saída do Exemplo 1</br>
-<strong>SIM</strong></br>
+SIM</br>
 Saída do Exemplo 2</br>
-<strong>NAO<strong></br>
-Saída do Exemplo 3
-<strong>SIM</strong></br>
+NAO</br>
+Saída do Exemplo 3</br>
+SIM</br>
 
 <h1>Problema 2</h1></br>
 De acordo com o Departamento de Engenharia de Tráfego de</br>
