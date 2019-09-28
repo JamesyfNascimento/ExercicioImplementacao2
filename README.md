@@ -46,7 +46,7 @@ Saída do Exemplo 1</br>
 Saída do Exemplo 2</br>
 <strong>NAO<strong></br>
 Saída do Exemplo 3
-<strong>SIM</strong>
+<strong>SIM</strong></br>
 
 <h1>Problema 2</h1></br>
 De acordo com o Departamento de Engenharia de Tráfego de</br>
